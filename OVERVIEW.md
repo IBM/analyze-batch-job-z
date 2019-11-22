@@ -5,7 +5,7 @@ Analyze batch job on mainframe with machine learning
 
 # Long title
 
-Analyze batch job on IBM mainframe with Watson Machine Learning on zOS
+Analyze batch job on IBM mainframe via Watson Machine Learning on zOS
 
 # Author
 
@@ -16,10 +16,7 @@ Analyze batch job on IBM mainframe with Watson Machine Learning on zOS
 
 ### Github repo
 
-* https://github.ibm.com/zhuoling/BatchJobAnalytics
-
-it is my working repository, not for publish 
-
+* https://github.ibm.com/IBM/analyze-batch-job-z
 
 # Summary
 
@@ -52,7 +49,7 @@ Machine learning analytics on large volume logs of batch job could help administ
 1. You could work on WMLz(IBM Watson Machine Learning for zOS) through web browser.
 2. WMLz provides Jupyter Notebook for you to code in Python, SCALA and R.
 3. WMLz provides Modeler Flow for you to explore data and train model in canvas by drop and down.
-4. You could read z native file eg SMF Type 30 file with Python notebook based on included mainframe data service of WMLz.
+4. You could read z native file such as SMF Type 30 file with Python notebook based on mainframe data service included in WMLz.
 
 
 # Instructions

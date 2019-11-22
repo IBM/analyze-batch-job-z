@@ -2,7 +2,7 @@
 
 <!-- Put badges at the very top -->
 <!-- Change the repo -->
-[![Build Status](https://travis-ci.org/IBM/watson-banking-chatbot.svg?branch=master)](https://travis-ci.org/IBM/watson-banking-chatbot)
+<!-- [![Build Status](https://github.com/IBM/analyze-batch-job-z.svg?branch=master)](https://github.com/IBM/analyze-batch-job-z)
 
 <!-- Add a new Title and fill in the blanks -->
 
@@ -17,7 +17,7 @@ Machine learning analytics on large volume logs of batch job could help administ
 * Predict elapsed time of long time batch jobs
 * Identify candidate of abnormal batch job instances
 
-In this code pattern, we will show some analytics samples to BankABC's Master Batch Job by using python notebook and modeler flow, based on customized sample data, validated workable on IBM Watson Machine Learning on zOS.
+In this code pattern, we will show some analytics samples for a fictional bank of BankABC's Master Batch Job by using python notebook and modeler flow, based on customized sample data, validated workable on IBM Watson Machine Learning on zOS.
    
    > BankABC wants to analyze elapsed time of Master Batch Job(MBJ). MBJ is a big application run at every midnight, includes over 10000 jobs, covered various types of business transaction. <br>
    BankABC hopes to know how MBJ elapsed time changes, which factors impact it mostly, what is the correlation among daily business transaction volumes and elapsed time. <br>
